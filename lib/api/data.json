@@ -1,0 +1,92 @@
+[
+  {
+    "id": 0,
+    "name": "Jeff Bezos",
+    "imgQuote": "https://qph.fs.quoracdn.net/main-qimg-410198556f3d0282583962ee3d986709",
+    "ceo": "Amazon, Inc.",
+    "age": "56",
+    "wealt": "132.5",
+    "employee": "566.000"
+  },
+  {
+    "id": 1,
+    "name": "Larry Page",
+    "imgQuote": "https://qph.fs.quoracdn.net/main-qimg-56ef36ed69c1fc503f7024f21e2f44f2",
+    "ceo": "Alphabet, Inc.",
+    "age": "47",
+    "wealt": "51.1",
+    "employee": "88.110"
+  },
+  {
+    "id": 2,
+    "name": "Mark Zuckerberg",
+    "imgQuote": "https://qph.fs.quoracdn.net/main-qimg-c4f1f57f5fc5a2a0d6103f632443fc46",
+    "ceo": "Facebook, Inc.",
+    "age": "35",
+    "wealt": "74.2",
+    "employee": "27.742"
+  },
+  {
+    "id": 3,
+    "name": "Warren Buffett",
+    "imgQuote": "https://qph.fs.quoracdn.net/main-qimg-d14b5928aefd4804d0fab9141b175579",
+    "ceo": "Berkshire Hathaway, Ink.",
+    "age": "89",
+    "wealt": "85.9",
+    "employee": "360.000"
+  },
+  {
+    "id": 4,
+    "name": "Jamie Dimon",
+    "imgQuote": "https://qph.fs.quoracdn.net/main-qimg-973173a063fc12c8969a62d4bf7e1d96",
+    "ceo": "JPMorgan Chase & Co.",
+    "age": "64",
+    "wealt": "1.31",
+    "employee": "250.000"
+  },
+  {
+    "id": 5,
+    "name": "Jack Ma",
+    "imgQuote": "https://qph.fs.quoracdn.net/main-qimg-ad369ca83c048b2a2d61772018298b68",
+    "ceo": "Alibaba Group",
+    "age": "55",
+    "wealt": "41.3",
+    "employee": "66.421"
+  },
+  {
+    "id": 6,
+    "name": "Doug McMillon",
+    "imgQuote": "https://qph.fs.quoracdn.net/main-qimg-70641f287fcf32eff2fbe729fca6b128",
+    "ceo": "Walmart Inc.",
+    "age": "53",
+    "wealt": "22.4",
+    "employee": "2.3"
+  },
+  {
+    "id": 7,
+    "name": "Tim Cook",
+    "imgQuote": "https://qph.fs.quoracdn.net/main-qimg-d43ab1a4fb2cccd5b1bd499c995b863e",
+    "ceo": "Apple, Inc.",
+    "age": "59",
+    "wealt": "625",
+    "employee": "80.000"
+  },
+  {
+    "id": 8,
+    "name": "Elon Musk",
+    "imgQuote": "https://qph.fs.quoracdn.net/main-qimg-5a6dc38f29a285d9d6df5c4f91d4bdff",
+    "ceo": "Tesla, Inc. dan SpaceX",
+    "age": "48",
+    "wealt": "19.6",
+    "employee": "5.000"
+  },
+  {
+    "id": 9,
+    "name": "Ma Huateng",
+    "imgQuote": "https://qph.fs.quoracdn.net/main-qimg-a3858c58f72e42acda7843aead46f779",
+    "ceo": "Tencent Holdings Ltd.",
+    "age": "48",
+    "wealt": "45.3",
+    "employee": "44.000"
+  }
+]
