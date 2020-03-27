@@ -46,6 +46,16 @@ class _ListScreenState extends State<ListScreen> {
 
             return _buildListView(ceos);
           }
+          if (snapshot.connectionState == ConnectionState.none) {
+            return Center(
+              child: Column(
+                children: <Widget>[
+                  CircularProgressIndicator(),
+                  Text('Check Your Internet Connection'),
+                ],
+              ),
+            );
+          }
           return Center(child: CircularProgressIndicator());
         },
       ),
@@ -69,7 +79,7 @@ class _ListScreenState extends State<ListScreen> {
             );
           },
           child: ListTile(
-            leading: CircleAvatar(child: Text((ceo.id.toInt() + 1).toString())),
+            leading: CircleAvatar(backgroundImage: NetworkImage(ceo.imgQuote)),
             title: Text(ceo.name),
             subtitle: Text('CEO dari ${ceo.ceo}'),
           ),

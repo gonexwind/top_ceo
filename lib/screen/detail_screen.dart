@@ -44,7 +44,7 @@ class DetailScreen extends StatelessWidget {
                 SizedBox(height: 4),
                 ceo.id == 8
                     ? Text(
-                        'Memiliki lebih dari ${ceo.employee} karyawan di SpaceX dan 37.000 di Tesla',
+                        'Memiliki lebih dari ${ceo.employee} karyawan di SpaceX dan 45.000 di Tesla',
                         style: TextStyle(fontSize: 18.0),
                       )
                     : Text(

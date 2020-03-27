@@ -6,7 +6,7 @@
     "ceo": "Amazon, Inc.",
     "age": "56",
     "wealt": "132.5",
-    "employee": "566.000"
+    "employee": "750,000"
   },
   {
     "id": 1,
@@ -15,7 +15,7 @@
     "ceo": "Alphabet, Inc.",
     "age": "47",
     "wealt": "51.1",
-    "employee": "88.110"
+    "employee": "103,549"
   },
   {
     "id": 2,
@@ -24,7 +24,7 @@
     "ceo": "Facebook, Inc.",
     "age": "35",
     "wealt": "74.2",
-    "employee": "27.742"
+    "employee": "44,942"
   },
   {
     "id": 3,
@@ -33,7 +33,7 @@
     "ceo": "Berkshire Hathaway, Ink.",
     "age": "89",
     "wealt": "85.9",
-    "employee": "360.000"
+    "employee": "389,373"
   },
   {
     "id": 4,
@@ -51,7 +51,7 @@
     "ceo": "Alibaba Group",
     "age": "55",
     "wealt": "41.3",
-    "employee": "66.421"
+    "employee": "101,958"
   },
   {
     "id": 6,
@@ -60,7 +60,7 @@
     "ceo": "Walmart Inc.",
     "age": "53",
     "wealt": "22.4",
-    "employee": "2.3"
+    "employee": "2.200.000"
   },
   {
     "id": 7,
@@ -69,7 +69,7 @@
     "ceo": "Apple, Inc.",
     "age": "59",
     "wealt": "625",
-    "employee": "80.000"
+    "employee": "137.000"
   },
   {
     "id": 8,
@@ -78,7 +78,7 @@
     "ceo": "Tesla, Inc. dan SpaceX",
     "age": "48",
     "wealt": "19.6",
-    "employee": "5.000"
+    "employee": "6.000"
   },
   {
     "id": 9,
@@ -87,6 +87,15 @@
     "ceo": "Tencent Holdings Ltd.",
     "age": "48",
     "wealt": "45.3",
-    "employee": "44.000"
+    "employee": "54,309"
+  },
+  {
+    "id": 10,
+    "name": "Satya Nadella",
+    "imgQuote": "https://www.yourselfquotes.com/wp-content/uploads/Satya-Nadella-Quote.png",
+    "ceo": "Microsoft Corporation",
+    "age": "52",
+    "wealt": "200",
+    "employee": "148.465"
   }
 ]
