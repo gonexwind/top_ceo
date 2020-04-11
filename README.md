@@ -1,6 +1,6 @@
 # top_ceo
 
-A new Flutter project.
+Simple ListView with Flutter.
 
 ## Getting Started
 
